@@ -2,28 +2,13 @@
 > 데이터를 이용해 상황에 맞는 거래내역, 고객, 지점정보 조회
 
 
-## 개발 프레임워크
-
-OS X & 리눅스:
+## 개발 환경
 
 ```sh
-npm install my-crazy-module --save
+STS, java 8, gradle, h2database, lombok, swagger
 ```
 
-윈도우:
 
-```sh
-edit autoexec.bat
-```
-
-## 문제 해결 방법
-
-모든 개발 의존성 설치 방법과 자동 테스트 슈트 실행 방법을 운영체제 별로 작성합니다.
-
-```sh
-make install
-npm test
-```
 
 ## 빌드 및 실행 방법
 * gradle
