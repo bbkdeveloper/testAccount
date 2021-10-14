@@ -5,7 +5,7 @@
 ## 개발 환경
 
 ```sh
-STS, java 8, gradle, h2database, lombok, swagger
+STS, java 8, gradle-6.8.3, h2database, lombok, swagger2:2.9.2
 ```
 
 
