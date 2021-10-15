@@ -9,7 +9,6 @@ STS, java 8, gradle-6.8.3, h2database, lombok, swagger2:2.9.2
 ```
 
 
-
 ## 빌드 및 실행 방법
 * gradle
 ```sh
@@ -20,3 +19,6 @@ STS, java 8, gradle-6.8.3, h2database, lombok, swagger2:2.9.2
   5. java -jar sample-0.0.1-SNAPSHOT.jar
 ```
 
+## 업데이트 내역
+* 0.1.0
+    * 1차 개발 완료
